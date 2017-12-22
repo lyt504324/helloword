@@ -1,5 +1,5 @@
 public class lyts {
     public static void main(String a[]) {
-        System.out.println("你sssss");
+        System.out.println("你sssssss");
     }
 }
